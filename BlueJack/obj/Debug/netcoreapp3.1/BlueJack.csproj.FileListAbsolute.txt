@@ -1,0 +1,12 @@
+C:\Users\brad\source\repos\BlueJack\BlueJack\bin\Debug\netcoreapp3.1\BlueJack.exe
+C:\Users\brad\source\repos\BlueJack\BlueJack\obj\Debug\netcoreapp3.1\BlueJack.csprojAssemblyReference.cache
+C:\Users\brad\source\repos\BlueJack\BlueJack\obj\Debug\netcoreapp3.1\BlueJack.AssemblyInfoInputs.cache
+C:\Users\brad\source\repos\BlueJack\BlueJack\obj\Debug\netcoreapp3.1\BlueJack.AssemblyInfo.cs
+C:\Users\brad\source\repos\BlueJack\BlueJack\bin\Debug\netcoreapp3.1\BlueJack.deps.json
+C:\Users\brad\source\repos\BlueJack\BlueJack\bin\Debug\netcoreapp3.1\BlueJack.runtimeconfig.json
+C:\Users\brad\source\repos\BlueJack\BlueJack\bin\Debug\netcoreapp3.1\BlueJack.runtimeconfig.dev.json
+C:\Users\brad\source\repos\BlueJack\BlueJack\bin\Debug\netcoreapp3.1\BlueJack.dll
+C:\Users\brad\source\repos\BlueJack\BlueJack\bin\Debug\netcoreapp3.1\BlueJack.pdb
+C:\Users\brad\source\repos\BlueJack\BlueJack\obj\Debug\netcoreapp3.1\BlueJack.dll
+C:\Users\brad\source\repos\BlueJack\BlueJack\obj\Debug\netcoreapp3.1\BlueJack.pdb
+C:\Users\brad\source\repos\BlueJack\BlueJack\obj\Debug\netcoreapp3.1\BlueJack.genruntimeconfig.cache
